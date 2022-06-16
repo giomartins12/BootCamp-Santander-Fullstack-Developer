@@ -1,11 +1,11 @@
 # Desafio de projeto 01:
 > ##### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-O seguinte desafio propõe a criação de um repositório no GitHub para fixação do aprendizado da aula sobreGit/GitHub.
+O seguinte desafio propõe a criação de um repositório no GitHub para fixação do aprendizado da aula sobre Git/GitHub.
 
 Criação do repositório de GitHub: '<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-![](C:\Users\giovanni.martins\git\BootCamp Santander fullstack Developer\Desafio de projeto 1\repositorio.png)
+![](Desafio de projeto 1/repositorio.png)
 
 ## Passo a passo: 
 
@@ -51,5 +51,8 @@ $ git remote -v
 $ git push origin master
 ```
 
+![](Desafio de projeto 1/print_terminal_git1.png)
 
+![](Desafio de projeto 1/print_terminal_git2.png)
 
+![](Desafio de projeto 1/print_terminal_git3.png)
